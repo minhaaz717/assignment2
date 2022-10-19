@@ -1,6 +1,6 @@
 #Read the provided CSV file ‘data.csv’.
 import pandas as pd
-data = pd.read_csv("data.csv")
+data = pd.read_csv("C:/Users/sruja/OneDrive/Desktop/python-codes/data.csv")
 data.head()
 #Show the basic statistical description about the data.
 data.describe()
