@@ -24,7 +24,8 @@ maximum value replaced by 0:
 |	 45	   |  117	 |  148	    | 406.0.  |
 
 #Show the basic statistical description about the data.
-Duration	Pulse	Maxpulse	Calories
+Duration|	Pulse|	Maxpulse|	Calories|
+--------  -----  --------   -------
 count	169.000000	169.000000	169.000000	164.000000
 mean	63.846154	107.461538	134.047337	375.790244
 std	42.299949	14.510259	16.450434	266.379919
