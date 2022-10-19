@@ -15,7 +15,7 @@ maximum value replaced by 0:
  Pandas output:
  
  #Read the provided CSV file ‘data.csv’.
- |Duration|	Pulse |	Maxpulse	|Calories |
+ |Duration|	Pulse |	Maxpulse	|Calories   |
  | :-----: :-----: :--------:  :-----:
 0|  60	   |  110	 |  130	    | 409.1.  |
 1|	 60	   |  117	 |  145	    | 479.0.  |
