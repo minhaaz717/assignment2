@@ -112,7 +112,9 @@ dtype: object
 
 
 #10. Using pandas create a scatter plot for the two columns (Duration and Calories).
-<AxesSubplot:xlabel='Duration', ylabel='Calories'>![download](https://user-images.githubusercontent.com/86486466/196581797-f4234d09-5063-4737-8202-0704acba18e9.png)
+<AxesSubplot:xlabel='Duration', ylabel='Calories'>
+
+![download](https://user-images.githubusercontent.com/86486466/196581797-f4234d09-5063-4737-8202-0704acba18e9.png)
 
 matplotlib output:
 
