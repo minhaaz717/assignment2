@@ -15,12 +15,12 @@ maximum value replaced by 0:
  Pandas output:
  
  #Read the provided CSV file ‘data.csv’.
- Duration	Pulse	Maxpulse	Calories
-0	60	110	130	409.1
-1	60	117	145	479.0
-2	60	103	135	340.0
-3	45	109	175	282.4
-4	45	117	148	406.0
+ Duration|	Pulse |	Maxpulse	|Calories |
+0|  60	  |  110	 |  130	    | 409.1.  |
+1|	 60	  |  117	 |  145	    | 479.0.  |
+2|	 60	  |  103	 |  135	    | 340.0.  | 
+3|	 45	  |  109	 |  175	    | 282.4.  |
+4|	 45	  |  117	 |  148	    | 406.0.  |
 
 #Show the basic statistical description about the data.
 Duration	Pulse	Maxpulse	Calories
